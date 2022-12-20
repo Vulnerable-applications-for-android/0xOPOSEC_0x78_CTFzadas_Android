@@ -9,7 +9,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:exported="true"
-        android:debuggable="true">
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
